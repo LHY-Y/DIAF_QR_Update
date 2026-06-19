@@ -22,7 +22,7 @@ function draw() {
   }
 
   // 상단 문구
-  fill(120);
+  fill(0, 255, 170);
 
   textSize(24);
 
@@ -38,7 +38,7 @@ function draw() {
   text("0424", width / 2, height / 2);
 
   // 하단 문구
-  fill(90);
+  fill(0, 255, 170);
 
   textSize(18);
 
